@@ -9,7 +9,7 @@ name: Vet Tech to Tech Writer in 257 easy steps
 description: Welcome! I'm a former registered veterinary technician turned test automation engineer turning technical writer.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![image of eyes looking to the side]({{ https://github.com/ccoyle/ccoyle.github.io/blob/master }}/images/clipart1737201.png "eyes logo")
+avatar:
 
 #
 # Flags below are optional
