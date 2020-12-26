@@ -17,4 +17,4 @@ I hope that this blog will be a welcoming place for everyone. My goal is that it
 
 ### How I created this blog
 
-I began this blog by forking a branch from [Jekyll Now](http://github.com/barryclark/jekyll-now/). Following the wonderfully clear directions, I personalized it using this [Markdown Guide](http://www.jekyllnow.com/Markdown-Style-Guide/). 
+I began this blog by forking a branch from [Jekyll Now](http://github.com/barryclark/jekyll-now/) and following the wonderfully clear directions. I personalized it using this [Markdown Guide](http://www.jekyllnow.com/Markdown-Style-Guide/). 
