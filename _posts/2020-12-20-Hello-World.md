@@ -16,4 +16,4 @@ I'm working my way through the excellent course on writing API docs at [I'd Rath
 + What would you consider a successful metric for this course?
   - I would consider this course successful if by the end I have a portfolio showing my skills in API documentation. Less concretely, I will consider it successful if I can go into interviews feeling confident in my ability to write API docs.
 + Do you have the technical mindset needed to excel in developer documentation fields?
-  - Yes, I believe so. Testing code, including API requires a solid understanding of how it works. I love tech and I love learning about how everything works. I don't believe that curiosity will ever go away. I'm not moving into technical writing because I hate coding. I'm doing it because I love explaining it clearly to others.
+  - Yes, I believe so. Testing code, including API requires a solid understanding of how it works. I love tech and I love learning about how everything works. I don't believe that curiosity will ever go away. I'm not moving into technical writing because I hate tech. I'm doing it because I love explaining it clearly to others.
