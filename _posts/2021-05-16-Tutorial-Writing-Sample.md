@@ -1,7 +1,7 @@
---
+---
 layout: post
 title: Tutorial Writing Sample
---
+---
 
 ### Introduction  
 When I decided I wanted to practice writing a tutorial, selecting a topic was my first and perhaps most difficult challenge. I considered everything from getting your dog to take medication  
@@ -10,7 +10,7 @@ apps from her phone. In the end I did it for her, but if I has written her a tut
 
 ##Sending a large video file using Freeconvert.com, a **free** online video compressor  
 
-For this tutorial you will need:
+For this tutorial you will need:  
 *A laptop or desktop computer which is logged on to your Google account
 
 1. On your desktop or laptop computer, click on the Google Apps icon next to your profile picture in the upper right corner of your Google homepage
