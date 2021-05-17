@@ -9,7 +9,7 @@ When I decided I wanted to practice writing a tutorial, selecting a topic was my
 ## Sending a large video file using Freeconvert.com, a **free** online video compressor ##  
 
 For this tutorial you will need:  
-*A laptop or desktop computer which is logged on to your Google account
+* A laptop or desktop computer which is logged on to your Google account
 
 1. On your desktop or laptop computer, click on the Google Apps icon next to your profile picture in the upper right corner of your Google homepage
     - if you hover over this icon, you will see the text _Google apps_
