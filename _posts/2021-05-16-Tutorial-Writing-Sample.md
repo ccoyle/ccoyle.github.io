@@ -6,7 +6,7 @@ title: Tutorial Writing Sample
 ### Introduction  
 When I decided I wanted to practice writing a tutorial, selecting a topic was my first and perhaps most difficult challenge. I considered everything from getting your dog to take medication to writing a tutorial about how to write a tutorial! In the end I took inspiration from a recent real-world example. My Mom needed to email a video that was too large for her email and messaging apps from her phone. In the end I did it for her, but if I has written her a tutorial it would have looked something like this.
 
-##Sending a large video file using Freeconvert.com, a **free** online video compressor##  
+## Sending a large video file using Freeconvert.com, a **free** online video compressor ##  
 
 For this tutorial you will need:  
 *A laptop or desktop computer which is logged on to your Google account
