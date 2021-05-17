@@ -12,7 +12,7 @@ For this tutorial you will need:
 *A laptop or desktop computer which is logged on to your Google account
 
 1. On your desktop or laptop computer, click on the Google Apps icon next to your profile picture in the upper right corner of your Google homepage
-  - if you hover over this icon, you will see the text _Google apps_
+    - if you hover over this icon, you will see the text _Google apps_
 2. In the menu that appears, click Photos
 3. Click on the video you need to send
 4. In the upper righthand corner of the page there is 3 dot icon that says _More options_ when you hover over it. Click the _More options- menu
